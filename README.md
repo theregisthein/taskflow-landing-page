@@ -41,7 +41,8 @@ TaskFlow/
 
 3. Abra o arquivo index.html no seu navegador.
 
-🙋‍♂️ Autor
-Desenvolvido por Régis Thein Rinaldi
-📧 rinaldiregisthein@gmail.com
-🔗 LinkedIn
+## 👨‍💻 Desenvolvedor
+
+Desenvolvido por **Régis Thein Rinaldi**  
+📧 [rinaldiregisthein@gmail.com](mailto:rinaldiregisthein@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/r%C3%A9gis-rinaldi-70bb34240/)
